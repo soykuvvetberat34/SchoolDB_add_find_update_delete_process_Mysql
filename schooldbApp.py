@@ -10,7 +10,7 @@ print("4)Delete student")
 print("\n")
 process=int(input("Whats your process:"))
 if process == 2:
-    stnum=input("enter student'S number:")
+    stnum=int(input("enter student'S number:"))
     pro.select(stnum)
 if process==1:
     stnum2=int(input("enter student's number:"))
@@ -29,4 +29,4 @@ if process==4:
     stnum5=int(input("please enter student's number who you want to delete:"))
     pro.delete(stnum5)
 else:
-    print("wrong choice selected")
+    print("----------------------closed-------------------------")
