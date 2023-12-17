@@ -9,17 +9,24 @@ Let's see the program
 
 ![Ekran görüntüsü 2023-12-17 201645](https://github.com/soykuvvetberat34/SchoolDB_add_find_update_delete_process_Mysql/assets/69586522/81948ab8-480a-452e-9346-378e53f470b2)
 ----------------------------------------------------------------------
+Insert process
+
 ![Ekran görüntüsü 2023-12-17 202951](https://github.com/soykuvvetberat34/SchoolDB_add_find_update_delete_process_Mysql/assets/69586522/ae2d6923-6ede-497c-ad20-37365e008900)
 ----------------------------------------------------------------------
+Select process
 
 ![Ekran görüntüsü 2023-12-17 203005](https://github.com/soykuvvetberat34/SchoolDB_add_find_update_delete_process_Mysql/assets/69586522/c0c82701-c20c-44f9-93af-33b5e0fbbdbd)
 
 ----------------------------------------------------------------------
+Update process
+
 ![Ekran görüntüsü 2023-12-17 203039](https://github.com/soykuvvetberat34/SchoolDB_add_find_update_delete_process_Mysql/assets/69586522/8877b999-31bf-40e4-883d-122beca1a70e)
 
 ![Ekran görüntüsü 2023-12-17 203054](https://github.com/soykuvvetberat34/SchoolDB_add_find_update_delete_process_Mysql/assets/69586522/5cad4af3-a656-49b9-98cf-9a03dcca8353)
 
 ---------------------------------------------------------------------
+Delete process
+
 ![Ekran görüntüsü 2023-12-17 203111](https://github.com/soykuvvetberat34/SchoolDB_add_find_update_delete_process_Mysql/assets/69586522/8053f708-361a-4cd7-ab33-89d15fe26037)
 
 for the last the database be like look at the student's with number 1661 infos was deleted
