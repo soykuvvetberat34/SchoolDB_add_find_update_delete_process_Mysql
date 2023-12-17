@@ -29,7 +29,7 @@ Delete process
 
 ![Ekran görüntüsü 2023-12-17 203111](https://github.com/soykuvvetberat34/SchoolDB_add_find_update_delete_process_Mysql/assets/69586522/8053f708-361a-4cd7-ab33-89d15fe26037)
 
-for the last the database be like look at the student's with number 1661 infos was deleted
+finally, if you can look at the database you can see the data about student whose number 1661 has been deleted
 
 
 ![Ekran görüntüsü 2023-12-17 203123](https://github.com/soykuvvetberat34/SchoolDB_add_find_update_delete_process_Mysql/assets/69586522/f53af692-985c-41c7-827f-856e939971e9)
