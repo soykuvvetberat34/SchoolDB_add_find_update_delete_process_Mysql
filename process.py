@@ -13,6 +13,7 @@ def insert(number,name,surname,birth,gender):
     mycursor.execute(sql,values)
     try:
         print("operating successful")
+        print("student created")
         mydb.commit()
     except pymysql.connect.Error as err:
         print("ERROR CODE:",err)
@@ -32,12 +33,13 @@ def select(number1):
     sql="SELECT * FROM students WHERE Student_Number=%s"
     value=number1
     mycursor.execute(sql,value)
-    result=mycursor.fetchall()
-    for i in result:
-        print(f"Student name:{i}")
     try:
-        print("operating successful")
         mydb.commit()
+        result=mycursor.fetchall()
+        for i in result:
+            print(f"Student name:{i[2]} \nStudent surname:{i[3]} \nStudent birthdate:{i[4]} \nStudent gender:{i[5]}")
+        print("operating successful")
+
     except pymysql.connect.Error as err:
         print("ERROR CODE:", err)
     finally:
